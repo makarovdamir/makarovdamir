@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">makarovdamir — Security and automation</title>
+  <desc id="desc">A digital security themed profile banner</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07131f"/><stop offset="1" stop-color="#142d49"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#b6c8df" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="1100" cy="150" r="210" fill="#536dfe" opacity=".08"/>
+  <path d="M720 160H830L876 112H1012L1057 160H1192" fill="none" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  <path d="M830 160L876 208H1012L1057 160" fill="none" stroke="#2dd4bf" stroke-width="2" stroke-opacity=".5"/>
+  <circle cx="720" cy="160" r="7" fill="#2dd4bf"/><circle cx="830" cy="160" r="6" fill="#2dd4bf"/>
+  <circle cx="876" cy="112" r="6" fill="#818cf8"/><circle cx="1012" cy="112" r="6" fill="#818cf8"/>
+  <circle cx="876" cy="208" r="6" fill="#2dd4bf"/><circle cx="1012" cy="208" r="6" fill="#2dd4bf"/>
+  <circle cx="1057" cy="160" r="6" fill="#818cf8"/><circle cx="1192" cy="160" r="7" fill="#818cf8"/>
+  <rect x="72" y="66" width="132" height="28" rx="14" fill="#153d44" stroke="#2dd4bf" stroke-opacity=".6"/>
+  <text x="138" y="85" text-anchor="middle" fill="#9cf4e8" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.6">GITHUB PROFILE</text>
+  <text x="72" y="158" fill="#f1f5fb" font-family="Segoe UI,Arial,sans-serif" font-size="50" font-weight="700">makarovdamir</text>
+  <text x="75" y="202" fill="#bac9dc" font-family="Segoe UI,Arial,sans-serif" font-size="20">Cybersecurity labs · SIEM · automation</text>
+  <text x="75" y="258" fill="#829bb6" font-family="Segoe UI,Arial,sans-serif" font-size="14">DETECT  /  ANALYZE  /  IMPROVE</text>
+  <rect x="72" y="280" width="1136" height="1" fill="#b6c8df" opacity=".18"/>
+</svg>
